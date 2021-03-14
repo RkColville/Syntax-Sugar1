@@ -1,0 +1,13 @@
+C:\Users\Robert Colville\Desktop\Repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\bin\Debug\netcoreapp3.1\Syntax and Syntax Sugar.exe
+C:\Users\Robert Colville\Desktop\Repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\bin\Debug\netcoreapp3.1\Syntax and Syntax Sugar.deps.json
+C:\Users\Robert Colville\Desktop\Repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\bin\Debug\netcoreapp3.1\Syntax and Syntax Sugar.runtimeconfig.json
+C:\Users\Robert Colville\Desktop\Repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\bin\Debug\netcoreapp3.1\Syntax and Syntax Sugar.runtimeconfig.dev.json
+C:\Users\Robert Colville\Desktop\Repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\bin\Debug\netcoreapp3.1\Syntax and Syntax Sugar.dll
+C:\Users\Robert Colville\Desktop\Repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\bin\Debug\netcoreapp3.1\Syntax and Syntax Sugar.pdb
+C:\Users\Robert Colville\Desktop\Repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\obj\Debug\netcoreapp3.1\Syntax and Syntax Sugar.csprojAssemblyReference.cache
+C:\Users\Robert Colville\Desktop\Repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\obj\Debug\netcoreapp3.1\Syntax and Syntax Sugar.AssemblyInfoInputs.cache
+C:\Users\Robert Colville\Desktop\Repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\obj\Debug\netcoreapp3.1\Syntax and Syntax Sugar.AssemblyInfo.cs
+C:\Users\Robert Colville\Desktop\Repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\obj\Debug\netcoreapp3.1\Syntax and Syntax Sugar.csproj.CoreCompileInputs.cache
+C:\Users\Robert Colville\Desktop\Repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\obj\Debug\netcoreapp3.1\Syntax and Syntax Sugar.dll
+C:\Users\Robert Colville\Desktop\Repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\obj\Debug\netcoreapp3.1\Syntax and Syntax Sugar.pdb
+C:\Users\Robert Colville\Desktop\Repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\obj\Debug\netcoreapp3.1\Syntax and Syntax Sugar.genruntimeconfig.cache
